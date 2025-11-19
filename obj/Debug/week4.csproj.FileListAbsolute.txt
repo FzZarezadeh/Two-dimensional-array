@@ -1,0 +1,10 @@
+I:\دانشگاه\t1-barnameSazi\week4\bin\Debug\week4.exe.config
+I:\دانشگاه\t1-barnameSazi\week4\bin\Debug\week4.exe
+I:\دانشگاه\t1-barnameSazi\week4\bin\Debug\week4.pdb
+I:\دانشگاه\t1-barnameSazi\week4\obj\Debug\week4.csprojAssemblyReference.cache
+I:\دانشگاه\t1-barnameSazi\week4\obj\Debug\week4.Form1.resources
+I:\دانشگاه\t1-barnameSazi\week4\obj\Debug\week4.Properties.Resources.resources
+I:\دانشگاه\t1-barnameSazi\week4\obj\Debug\week4.csproj.GenerateResource.cache
+I:\دانشگاه\t1-barnameSazi\week4\obj\Debug\week4.csproj.CoreCompileInputs.cache
+I:\دانشگاه\t1-barnameSazi\week4\obj\Debug\week4.exe
+I:\دانشگاه\t1-barnameSazi\week4\obj\Debug\week4.pdb
